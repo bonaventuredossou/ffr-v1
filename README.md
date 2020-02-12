@@ -25,4 +25,5 @@ The project has been led so far by the edAI (https://twitter.com/edAIOfficial) r
 Chris EMEZUE (https://twitter.com/ChrisEmezue)and Bonaventure DOSSOU (https://twitter.com/bonadossou)
 
 Our work gave us an overall BLEU score of 44.38.
+The model training and the bleu score distribution along the test dataset plots were provided too
 Yyou can find all the results and summary about the are available in the repository FFR pdf file
