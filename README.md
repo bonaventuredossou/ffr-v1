@@ -14,7 +14,7 @@ sentences, which we used for the pilot stage. Furthermore, the dataset was speci
 preserving the diacritics and special characters of the Fon alphabet. The owners of the website were contacted and permission was granted
 to collect the data on their website.
 
-FFR v1.0 was trained for 4 days, using the Paperspace cloud computation virtual machine and the code for the model was inspired from [1] 
+FFR v1.0 was trained for 5 days, using the Paperspace cloud computation virtual machine and the code for the model was inspired from [1] 
 and [2], with our added contributions to address the Fon diacritics.
 
 [1] : Deep Learning for NLP, Jason Brownlee - Section 9 : Machine Translation
@@ -24,4 +24,5 @@ and [2], with our added contributions to address the Fon diacritics.
 The project has been led so far by the edAI (https://twitter.com/edAIOfficial) researchers : 
 Chris EMEZUE (https://twitter.com/ChrisEmezue)and Bonaventure DOSSOU (https://twitter.com/bonadossou)
 
-The results and summary are available in the file FFR
+Our work gave us an overall BLEU score of 44.38.
+Yyou can find all the results and summary about the are available in the repository FFR pdf file
