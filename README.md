@@ -26,4 +26,10 @@ Chris EMEZUE (https://twitter.com/ChrisEmezue)and Bonaventure DOSSOU (https://tw
 
 Our work gave us an overall BLEU score of 44.38.
 The model training and the bleu score distribution along the test dataset plots were provided too
-All the results and summary about the are available in the repository FFR pdf file
+All the results and summary about the model and its architecture are available in the repository FFR pdf file
+
+We are opened for collaboration to improve the current model and gather more data.
+
+The whole dataset and the code will be released soon 
+
+
