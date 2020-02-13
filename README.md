@@ -1,7 +1,7 @@
 # ffr-v1
 Towards developing a Robust Translation Model for African languages: Pilot Project FFR v1.0. 
 
-"FFR v1.0" is the first stage of a Fon-French translation model project, trained on 117,029 parallel sentences using neural machine translation with attention.
+"FFR v1.0" is the first stage of a Fon-French translation model project, trained on https://github.com/bonaventuredossou/ffr-v1/tree/master/FFR-Dataset using neural machine translation with attention.
 While it could be observed that Masakhane https://www.masakhane.io/ (https://twitter.com/MasakhaneMt) , an online community of African researchers working on machine translation for African languages, have generated translation models and baselines from/to many African languages, however, the "Project FFR v1.0” is the first to make this effort on a large scale, by taking time to painstakingly amass a 
 large training dataset and exploring techniques to work with the Fon diacritics for better translation accuracy in order to achieve a publishable model which may be used by people to a certain degree of reliability.
 
@@ -19,7 +19,7 @@ and [2], with our added contributions to address the Fon diacritics.
 The project has been led so far by the edAI (https://twitter.com/edAIOfficial) researchers : 
 Chris EMEZUE (https://twitter.com/ChrisEmezue) and Bonaventure DOSSOU (https://twitter.com/bonadossou) .
 
-Our work gave us an overall BLEU score of 44.38.
+Our work gave us an overall BLEU score of 30.80 .
 The model training and the bleu score distribution along the test dataset plots were provided too.
 All the results and summary about the model and its architecture are available in the repository FFR pdf file.
 
