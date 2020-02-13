@@ -1,0 +1,2 @@
+Model checkpoints for testing : https://drive.google.com/drive/folders/1mcIEon1EDjiw2mkjnEzMkKBkazJN3nMV?usp=sharing
+That's a 12GB matter - Good luck :)
