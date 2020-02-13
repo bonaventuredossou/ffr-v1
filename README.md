@@ -19,7 +19,7 @@ and [2], with our added contributions to address the Fon diacritics.
 The project has been led so far by the edAI (https://twitter.com/edAIOfficial) researchers : 
 Chris EMEZUE (https://twitter.com/ChrisEmezue) and Bonaventure DOSSOU (https://twitter.com/bonadossou) .
 
-Our work gave us an overall BLEU score of 30.80 .
+Our work gave us overall BLEU and GLEU score respectively of 30.55 and 18.18 . Make sure you check out https://github.com/bonaventuredossou/ffr-v1/blob/master/testing_bleu_gleu_scores.txt for more details
 The model training and the bleu score distribution along the test dataset plots were provided too.
 All the results and summary about the model and its architecture are available in the repository FFR pdf file.
 
