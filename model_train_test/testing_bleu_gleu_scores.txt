@@ -1,0 +1,2 @@
+Overall BLEU Score on FFR v1.0 Test Dataset : 30.55
+Overall GLEU Score on FFR v1.0 Test Dataset : 18.18
