@@ -1,0 +1,2 @@
+Overall BLEU Score on FFR v1.0 Test Dataset Without Diacritics: 24.53
+Overall GLUE Score on FFR v1.0 Test Dataset Without Diacritics: 13
