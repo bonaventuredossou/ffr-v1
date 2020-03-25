@@ -2,7 +2,7 @@
 # Tensorflow Tutorial NMT with attention : https://www.tensorflow.org/tutorials/text/nmt_with_attention
 # James Brownlee - Deep Learning for NLP : Section 9 - Machine Translation
 # Everything has been added for the specify task
-
+# Written by Bonaventure DOSSOU
 from __future__ import absolute_import, division, print_function, unicode_literals
 
 import io
