@@ -63,11 +63,14 @@ def unicode_to_ascii(s):
     return ''.join(c for c in unicodedata.normalize('NFD', s)
                    if unicodedata.category(c) != 'Mn')
 
+def normalize_diacritics_text(text_string):
+    """Convenience wrapper to abstract away unicode & NFC"""
+    return unicodedata.normalize("NFC", text_string)
 
 # Modified to handle Fon diacritics
 def preprocess_sentence(w):
-    w = unicode_to_ascii(w.lower().strip())
-
+#     w = unicode_to_ascii(w.lower().strip())
+    w = normalize_diacritics_text(w.lower().strip())
     w = re.sub(r"([?.!,¿])", r" \1 ", w)
     w = re.sub(r'[" "]+', " ", w)
     re_punc = re.compile('[%s]' % re.escape(string.punctuation))
