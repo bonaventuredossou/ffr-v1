@@ -10,9 +10,9 @@ moment. Please read the Documentation file for more information about this datas
 DATASET CONTRIBUTORS
 Here, we'll like to give special thanks and recognition to the following individuals who have, in one way or the other, contributed to the FFR Dataset:
 
-Name: Chris Emezue
-Affilation: edAI(https://twitter.com/edAIOfficial)
-Contact: Twitter(https://twitter.com/ChrisEmezue)
+Name: Chris Emezue \n
+Affilation: edAI(https://twitter.com/edAIOfficial) \n
+Contact: Twitter(https://twitter.com/ChrisEmezue) \n
 
 Name: Bonaventure Dossou
 Affiliation:edAI(https://twitter.com/edAIOfficial)
