@@ -90,7 +90,8 @@ def create_dataset(path, num_examples):
     lines = io.open(path, encoding='UTF-8').read().strip().split('\n')
     word_pairs = [[preprocess_sentence(w) for w in l.split('\t')] for l in lines[:num_examples] if
                   len(l.split("\t")) == 2 and preprocess_sentence(
-                      l.split("\t")[1].strip("\n")) != ""]  # to make sure the element has two pairs :
+                      l.split("\t")[1].strip("\n")) != "" and preprocess_sentence_1(
+                      l.split("\t")[0].strip("\n")) != ""]  # to make sure the element has two pairs :
     # Fon sentence and its French translation
     return zip(*word_pairs)
 
