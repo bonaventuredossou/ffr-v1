@@ -16,8 +16,8 @@ Affiliation: Laboratoire d'Informatique Signal et Image de la Cote d'Opale
 Contact: frejus.layele@gmail.com
 
 Name: BeninLangues
-Affiliation:
-Contact:
+Affiliation: BeninLangues
+Contact: https://beninlangues.com/
 
 
 
@@ -30,6 +30,6 @@ Contact:
 
 _______________________________________________________
 To join as a contributor, please contact us at https://twitter.com/edAIOfficial 
-Or contact Chris Emezue(chris.emezue@gmail.com) or Bonaventure Dossou(femi.dossou@gmail.com)
+Or contact Chris Emezue(chris.emezue@gmail.com) or Bonaventure Dossou(femipancrace.dossou@gmail.com)
 
 
