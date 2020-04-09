@@ -69,7 +69,6 @@ def normalize_diacritics_text(text_string):
 
 # Modified to handle Fon diacritics
 def preprocess_sentence(w):
-#     w = unicode_to_ascii(w.lower().strip())
     w = normalize_diacritics_text(w.lower().strip())
     w = re.sub(r"([?.!,¿])", r" \1 ", w)
     w = re.sub(r'[" "]+', " ", w)
@@ -85,12 +84,29 @@ def preprocess_sentence(w):
     w = '<start> ' + lines_str + ' <end>'
     return w
 
+def preprocess_sentence_1(w):
+    w = unicode_to_ascii(w.lower().strip())
+
+    w = re.sub(r"([?.!,¿])", r" \1 ", w)
+    w = re.sub(r'[" "]+', " ", w)
+    # w = re.sub(r"[^a-zA-Z?.!,¿]+", " ", w)
+
+    re_punc = re.compile('[%s]' % re.escape(string.punctuation))
+    w = re_punc.sub('', w)
+
+    lines_str = w.replace("”", "")
+    lines_str = lines_str.replace("“", "")
+    lines_str = lines_str.replace("’", "'")
+    lines_str = lines_str.replace("«", "")
+    lines_str = lines_str.replace("»", "")
+    lines_str = ' '.join([word for word in lines_str.split() if word.isalpha()])
+    return lines_str
 
 def create_dataset(path, num_examples):
     lines = io.open(path, encoding='UTF-8').read().strip().split('\n')
     word_pairs = [[preprocess_sentence(w) for w in l.split('\t')] for l in lines[:num_examples] if
-                  len(l.split("\t")) == 2 and preprocess_sentence(
-                      l.split("\t")[1].strip("\n")) != "" and preprocess_sentence(
+                  len(l.split("\t")) == 2 and preprocess_sentence_1(
+                      l.split("\t")[1].strip("\n")) != "" and preprocess_sentence_1(
                       l.split("\t")[0].strip("\n")) != ""]  # to make sure the element has two pairs :
     # Fon sentence and its French translation
     return zip(*word_pairs)
