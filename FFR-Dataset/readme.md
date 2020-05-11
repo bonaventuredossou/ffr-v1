@@ -11,11 +11,11 @@ DATASET CONTRIBUTORS
 Here, we'll like to give special thanks and recognition to the following individuals who have, in one way or the other, contributed to the FFR Dataset:
 
 
-Name: Dr Frejus Layele
+1) Name: Dr Frejus Layele
 Affiliation: Laboratoire d'Informatique Signal et Image de la Cote d'Opale
 Contact: frejus.layele@gmail.com
 
-Name: BeninLangues
+2) Name: BeninLangues
 Affiliation: BeninLangues
 Contact: https://beninlangues.com/
 
