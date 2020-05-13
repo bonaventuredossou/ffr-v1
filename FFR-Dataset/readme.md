@@ -16,10 +16,7 @@ Contact: frejus.layele@gmail.com
 Affiliation: BeninLangues
 Contact: https://beninlangues.com/
 
-3) Name: Ricardo-Jean Sèna Ahouanvlame
-Affiliation: Séminaire Notre-Dame de Fatima,Parakou
-Contact: tontonjars@gmail.com, WhatsApp: wa.me/22964418752, Twitter: @AhouanvlameRic1
-Ricardo-Jean further designed a chatbot (https://www.messenger.com/t/RobotFn) that offers numerous contents in Fon and French.
+
 _______________________________________________________
 To join as a contributor, please contact us at https://twitter.com/edAIOfficial 
 Or contact Bonaventure Dossou(femipancrace.dossou@gmail.com) or contact Chris Emezue(chris.emezue@gmail.com)
