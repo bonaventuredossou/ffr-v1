@@ -6,7 +6,7 @@ While it could be observed that Masakhane https://www.masakhane.io/ (https://twi
 large training dataset and exploring techniques to work with the Fon diacritics for better translation accuracy in order to achieve a publishable model which may be used by people to a certain degree of reliability.
 
 Part of the research methodology used by the researchers in sourcing the data for this research includes rigorous compilation through 
-“web-scraping” and  “parsing” open source dataset websites. Through these efforts, we obtained 117,029 Fon-French parallel words and 
+“web-scraping” and  “parsing” open source dataset websites. Through these efforts, we obtained 53,975 Fon-French parallel words and 
 sentences, which we used for the pilot stage. Furthermore, the dataset was specially cleaned, pre-processed and tokenized, preserving the diacritics and special characters of the Fon alphabet. The owners of the website were contacted and permission was granted to collect the data on their website.
 
 FFR v1.0 was trained for 5 days, using the Paperspace cloud computation virtual machine and the code for the model was inspired from [1] 
