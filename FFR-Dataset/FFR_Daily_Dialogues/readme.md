@@ -1,4 +1,4 @@
-We aim to collect, clean and store corpora of Fon and French sentences for Natural Language Processing researches including Neural Machine Translation, Name Entity Recognition, etc. for Fon-French.
+We aim to collect, clean and store corpora of Fon and French sentences for Natural Language Processing researches including Neural Machine Translation, Name Entity Recognition, etc. for Fon, a very low-resourced and endangered African native language.
 
 Fon (also called Fongbe) is an African-indigenous language spoken mostly in Benin, Togo and Nigeria - by about 2 million people.
 
