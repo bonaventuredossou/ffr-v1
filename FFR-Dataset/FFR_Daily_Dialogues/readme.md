@@ -42,7 +42,7 @@ _______________________________________________________
 Clavier Fongbé (WebView): https://bonaventuredossou.github.io/clavierfongbe/ (Made by Bonaventure Dossou)
 Clavier Fongbé (Mobile Android Version): https://play.google.com/store/apps/details?id=com.fulbertodev.clavierfongbe&hl=en&gl=US (Fabroni Yoclunon, Bonventure Dossou et. al.)
 
-Please use and cite: https://zenodo.org/record/4432712/export/hx#.X_yXlBbjJPY
+Please use and cite: https://zenodo.org/record/4432712
 
 @dataset{bonaventure_dossou_2021_4432712,
   author       = {Bonaventure Dossou and
