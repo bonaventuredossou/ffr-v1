@@ -8,7 +8,7 @@ Through crowdsourcing, Google Form Surveys, we gathered and cleaned #25377 paral
 
 The dataset is available under "Fon_French_Parallel_Data.txt" or/and "Fon_French_Parallel_Data_25377.csv".
 
-To the crowdsourcing, creation, and cleaning of this version have contibuted:
+To the crowdsourcing, creation, and cleaning of this version have contibruted:
 
 1) Name: Bonaventure DOSSOU
 Affiliation: MSc Student in Data Engineering, Jacobs University
@@ -41,6 +41,20 @@ _______________________________________________________
 
 Clavier Fongbé (WebView): https://bonaventuredossou.github.io/clavierfongbe/ (Made by Bonaventure Dossou)
 Clavier Fongbé (Mobile Android Version): https://play.google.com/store/apps/details?id=com.fulbertodev.clavierfongbe&hl=en&gl=US (Fabroni Yoclunon, Bonventure Dossou et. al.)
+
+Please use and cite: https://zenodo.org/record/4432712/export/hx#.X_yXlBbjJPY
+
+@dataset{bonaventure_dossou_2021_4432712,
+  author       = {Bonaventure Dossou and
+                  Chris Emezue},
+  title        = {Fon French Daily Dialogues Parallel Data},
+  month        = jan,
+  year         = 2021,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.4432712},
+  url          = {https://doi.org/10.5281/zenodo.4432712}
+}
 
 MIT License
 
