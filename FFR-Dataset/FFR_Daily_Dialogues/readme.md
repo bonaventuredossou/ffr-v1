@@ -1,4 +1,4 @@
-FFR Dataset is an ongoing project to collect, clean and store corpora of Fon and French sentences for machine translation from Fon-French.
+We aim to collect, clean and store corpora of Fon and French sentences for Natural Language Processing researches including Neural Machine Translation, Name Entity Recognition, etc. for Fon-French.
 
 Fon (also called Fongbe) is an African-indigenous language spoken mostly in Benin, Togo and Nigeria - by about 2 million people.
 
@@ -19,7 +19,7 @@ Affiliation: Student in Linguistics
 Contact: tontonjars@gmail.com
 
 3) Name: Fabroni YOCLOUNON
-Affiliation: Creator of the Label IamYɔCLUNɔN 
+Affiliation: Creator of the Label IamYourClounon 
 Contact: iamyourclounon@gmail.com
 
 4) Name: BeninLangues
@@ -38,6 +38,9 @@ To join as a contributor, please contact us at:
   3) https://twitter.com/edAIOfficial 
 Or contact Bonaventure Dossou (femipancrace.dossou@gmail.com), Chris Emezue (chris.emezue@gmail.com)
 _______________________________________________________
+
+Clavier Fongbé (WebView): https://bonaventuredossou.github.io/clavierfongbe/ (Made by Bonaventure Dossou)
+Clavier Fongbé (Mobile Android Version): https://play.google.com/store/apps/details?id=com.fulbertodev.clavierfongbe&hl=en&gl=US (Fabroni Yoclunon, Bonventure Dossou et. al.)
 
 MIT License
 
