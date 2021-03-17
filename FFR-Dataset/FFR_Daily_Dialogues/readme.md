@@ -6,6 +6,16 @@ As training data is crucial to the high performance of a machine learning model,
 
 Through crowdsourcing, Google Form Surveys, we gathered and cleaned #25377 parallel Fon-French# all based on daily conversations.
 
+Using this dataset, please cite primarily:
+
+# @article{2103.08052,
+# Author = {Bonaventure F. P. Dossou and Chris C. Emezue},
+# Title = {Crowdsourced Phrase-Based Tokenization for Low-Resourced Neural Machine Translation: The Case of Fon Language},
+# Year = {2021},
+# Eprint = {arXiv:2103.08052},
+# Howpublished = {African NLP, EACL 2021},
+# }
+
 The dataset is available under "Fon_French_Parallel_Data.txt" or/and "Fon_French_Parallel_Data_25377.csv".
 
 To the crowdsourcing, creation, and cleaning of this version have contibruted:
