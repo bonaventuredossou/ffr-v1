@@ -1,4 +1,4 @@
-# ffr-v1
+# FFR
 Towards developing a Robust Translation Model for African languages: Pilot Project FFR v1.0. 
 
 "FFR v1.0" is the first stage of a Fon-French translation model project, trained on https://github.com/bonaventuredossou/ffr-v1/tree/master/FFR-Dataset using neural machine translation with attention.
