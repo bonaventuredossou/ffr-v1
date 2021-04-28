@@ -25,3 +25,6 @@ The model training and the bleu score distribution along the test dataset plots 
 All the results and summary about the model and its architecture are available in the repository FFR pdf file.
 
 We are opened for collaboration to improve the current model and gather more data.
+
+
+## We have finally released the website at ffrtranslate.com
