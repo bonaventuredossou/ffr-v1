@@ -27,4 +27,4 @@ All the results and summary about the model and its architecture are available i
 We are opened for collaboration to improve the current model and gather more data.
 
 
-## We have finally released the website at ffrtranslate.com
+## We have finally released the website at https://www.ffrtranslate.com/
