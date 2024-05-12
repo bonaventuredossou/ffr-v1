@@ -6,7 +6,7 @@ Copyright (c) 2020 Bonaventure DOSSOU, Chris EMEZUE
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-**The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. The notion has to mention "Built on top of <C>" where C is the proper citation of the current repository.**
+**The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. The notion has to mention "Built on top of #C" where C is the proper citation of the current repository.**
 
 **This project is an ongoing research and the authors have all the rights to the dataset created. Any third-party entity desiring to have access to and use our dataset is required to contact the authors, and have their approval. In any case, this repository content should not be used for commercial purposes without the approval of the authors.**
 
