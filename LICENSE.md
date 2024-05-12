@@ -14,9 +14,9 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-This project is an ongoing research and the authors have used own all the rights
-on the dataset created. Any third-party entity desiring to have access and use our
-dataset is required to contact the authors .
+This project is an ongoing research and the authors have all the rights
+to the dataset created. Any third-party entity desiring to have access to and use our
+dataset is required to contact the authors, and have their approval. In any case, this repository content should not be used for commercial purposes without the approval of the authors.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
